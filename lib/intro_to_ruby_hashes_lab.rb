@@ -1,8 +1,5 @@
 
     require "pry"
-def new_hash
-  my_hash = {}
-end
 
 def my_hash
   my_family = {
